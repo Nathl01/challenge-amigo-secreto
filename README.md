@@ -26,7 +26,7 @@ O objetivo deste projeto é facilitar a organização de sorteios de amigo secre
 ## Como usar
 
 1. Acesse a página `index.html`.
-2. No campo "Digite o nome dos seus amigos", insira o nome de um amigo e clique em "Adicionar". Repita este passo para todos os participantes.
+2. No campo "Digite o nome dos seus amigos", insira o nome de um amigo e clique em "Adicionar".
 3. Clique no botão "Sortear amigo" para realizar o sorteio.
 4. O resultado do sorteio será exibido na tela.
 
